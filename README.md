@@ -1,0 +1,2 @@
+# fungame
+fortune fungame
