@@ -1,0 +1,44 @@
+body{
+    background-color: blueviolet;
+   
+}
+h1{
+    text-align: center;
+    color:aliceblue
+    
+}
+#fortuneContainer {
+    text-align: center;
+    width: 100%;
+}
+#buttonContainer{
+    width: fit-content;
+    margin: auto;
+    
+}
+button {
+   
+    font-size: larger;
+    padding: 5px;
+    text-align: center;
+    background-color:rgb(14, 236, 236);
+    cursor:pointer;
+    border:10px solid rgb(177, 8, 36);
+}
+button:hover {
+    background-color: red;
+}
+#image1{
+    height:200px;
+    width:fit-content;
+    margin:auto;
+    display:none;
+}
+#fortune{
+    text-align: center;
+    font-size: 24px;
+    margin:50px;
+    color:yellow;
+    display: block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
